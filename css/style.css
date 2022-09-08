@@ -1,0 +1,52 @@
+ /*Margin-top för alla headings*/
+.heading-margin{               
+    margin-top: 100px;
+}
+
+
+/*Har gett alla headings en särskild id*/
+#heading-1{
+    font-size: 3em;
+    color: #25316D;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif 
+          
+}
+
+#heading-2{
+    color: hotpink;
+}
+
+#heading-3{
+    color: #D07000;
+}
+
+/* Bilden på indexsidan */
+img{
+    width: 300px; 
+    margin: auto;
+    display: block;
+}
+
+
+/* Font-family för alla paragrafer */
+.font-p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Bakgrundsfärg på alla htmlfiler med class="bg-color" */
+.bg-color{
+    background-color: #9FC9F3;
+}
+
+/* Bakgrundsfärg när muspekaren befinner sig över länkarna */
+a:hover{
+    background-color: white;
+}
+
+/* Utrymme mellan länkarna */
+a{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
